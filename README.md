@@ -24,7 +24,7 @@
 > - 개발기간 : 2022.03-2022.06
 > - 핵심 역할 : 팀장, 팀원들과 함께 하드웨어 제작 및 소프트웨어 설계
 >
-> [프로젝트 상세 설명]
+> [프로젝트 상세 설명] https://github.com/Yeonn09/-The-Indoor-Energy-Management-System.git
 
 ## 2. 🌱 The Indoor Energy Management System
 
